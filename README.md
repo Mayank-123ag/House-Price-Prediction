@@ -31,3 +31,7 @@ This project predicts California housing prices using Machine Learning.
 
 ## Deployment
 Built using Streamlit.
+
+<img width="1910" height="855" alt="Screenshot 2026-06-11 171459" src="https://github.com/user-attachments/assets/1ba644d8-89e7-480a-a3fd-66f8daa3d472" />
+<img width="1914" height="866" alt="Screenshot 2026-06-11 171450" src="https://github.com/user-attachments/assets/ca2d7d58-a49d-486a-b274-fb6ffc68aa12" />
+
