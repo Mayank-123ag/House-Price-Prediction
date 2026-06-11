@@ -1,0 +1,6 @@
+1. Dataset contains 20,640 records.
+2. No missing values found.
+3. No duplicate records found.
+4. Median Income has strongest positive correlation with House Value.
+5. Population and Occupancy contain outliers.
+6. House prices increase with median income.
